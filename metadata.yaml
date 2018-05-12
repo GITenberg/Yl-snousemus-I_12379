@@ -1,5 +1,5 @@
 _repo: Yl-snousemus-I_12379
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Järnefelt, Arvid
@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '4252'
     url: http://www.gutenberg.org/2009/agents/4252
     wikipedia: http://fi.wikipedia.org/wiki/Arvid_J%C3%A4rnefelt
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Tolstoy, Leo, graf
@@ -25,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/136
     wikipedia: http://en.wikipedia.org/wiki/Leo_Tolstoy
 description: Translation of Voskresenie.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12379#Yl-snousemus-I
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
 identifiers:
